@@ -1,4 +1,4 @@
-# Phishing Analysis Lab - Day 21
+# Phishing Analysis Lab 
 
 ## Question 1: What is the reputation of the domain?
 
