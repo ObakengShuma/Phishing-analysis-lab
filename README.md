@@ -57,7 +57,7 @@ Investigate the reputation of a suspicious domain from a phishing email.
 ## Submitted By
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Name-Obakeng%20Shuma--Blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Name-Obakeng%20Shuma---Blue?style=for-the-badge&logo=github" />
 </p>
 
 
